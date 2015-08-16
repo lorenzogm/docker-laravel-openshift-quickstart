@@ -24,7 +24,7 @@
 	docker-compose run --rm phpnginx php composer.phar update
 	```
 
-4. Apply required permisions to Laravel:
+4. Apply required permissions to Laravel:
 
 	```
 	chmod -R 777 vendor storage
